@@ -13,3 +13,7 @@ h3 {
 .comedy {
     color: green;
 }
+
+.clickable {
+    cursor: pointer;
+}
